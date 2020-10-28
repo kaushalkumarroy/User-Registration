@@ -13,5 +13,8 @@ public class userRegistrationMain {
 		if(result) {
 			System.out.println("Valid name");
 		}
+		else {
+			System.out.println("Invalid name.");
+		}
 	}
 }
